@@ -66,6 +66,7 @@ Now that you have downloaded a copy of your fork, you will need to setup an `ups
 
 As mentioned earlier, the main repository at `https://github.com/freeCodeCamp/freeCodeCamp` is often referred to as `upstream` repository. Your fork at `https://github.com/YOUR_USER_NAME/freeCodeCamp` is often referred to as `origin` repository.
 
+
 You need to point your local clone to the `upstream` in addition to the `origin`. This is so that you can sync changes from the main repository. This way you do not have to go through forking and cloning again and again.
 
 1. Change directory to the new freeCodeCamp directory:
